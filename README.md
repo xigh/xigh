@@ -24,6 +24,8 @@ I like working on low level stuff :
 - Multithreading
 - Machine learning (without frameworks)
 
+![fpga-ulx3s](./fgpa-ulx3s.jpg)
+
 ### The projects I worked on :
 
 - Plan9 : https://philippe-anel.fr/en/articles/2015-04-01_plan9-operating-system/
