@@ -4,6 +4,7 @@ I'm living in Brittany / France.
 
 * You can find my website here : https://philippe-anel.fr/en/
 * You can follow me on Twitter here : https://twitter.com/zexigh
+* I also put my resume on LinkedIn : https://www.linkedin.com/in/philippeanel/
 
 ### About me :
 
