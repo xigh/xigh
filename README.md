@@ -17,7 +17,10 @@ I like cooking :pizza:, swimming in the ocean :fish:, reading sci-fi books :book
 I like working on low level stuff :
 
 - Assembly - X86_64, ARMv7, ARMv8, AVX2, SSE, RISCV, SparcV7
-- FPGA - Xilinx (https://github.com/Digilent/Arty-A7), Lattice ECP5 (https://github.com/ulx3s), Ice40 (https://github.com/tinyfpga/TinyFPGA-BX)
+- FPGA 
+    - Xilinx (https://github.com/Digilent/Arty-A7)
+    - Lattice ECP5 (https://github.com/ulx3s)
+    - Ice40 (https://github.com/tinyfpga/TinyFPGA-BX)
 - Operating system - Kernels : Linux, FreeBSD, Plan9, L4
 - Compilers - LLVM, GCC
 - Distributed algorithms
