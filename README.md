@@ -7,7 +7,7 @@ I'm living in Brittany / France.
 
 ### About me :
 
-I have 4 daughters, 2 stepchildren, 4 cats. One of these cats, Betty - the oldest - is my nightmare :scream_cat:.
+I have 4 daughters, 2 stepchildren, 4 cats. One of these cats, Betty - the oldest - is my nightmare :scream_cat:. I thus renamed her Belzebuth :speak_no_evil:
 
 ### What I program for fun :
 
