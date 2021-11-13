@@ -20,7 +20,7 @@ I like working on low level stuff :
 - FPGA - Xilinx (https://github.com/Digilent/Arty-A7), Lattice ECP5 (https://github.com/ulx3s), Ice40 (https://github.com/tinyfpga/TinyFPGA-BX)
 - Operating system - Kernels : Linux, FreeBSD, Plan9, L4
 - Compilers - LLVM, GCC
-- Distributed algorithm
+- Distributed algorithms
 - Multithreading
 - Machine learning (without frameworks)
 
