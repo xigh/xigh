@@ -8,7 +8,9 @@ I'm living in Brittany :butter: :lobster: / France :baguette_bread: :cheese:.
 
 ### About me :
 
-I have 4 daughters, 2 stepchildren, 4 cats. One of these cats, Betty - the oldest - is my nightmare :scream_cat:. I thus renamed her Belzebuth :speak_no_evil:. But hey ... I like to make fun of her. Maybe I deserve it after all :smile:.
+I have 4 daughters, 2 stepchildren, 3+1 cats. One of these cats, Betty - the oldest - is my nightmare :scream_cat:. I thus renamed her Belzebuth :speak_no_evil:. But hey ... I like to make fun of her. Maybe I deserve it after all :smile:. The fourth one came a few weeks ago and she looked mistreated. I think she will stay now ...
+
+![cats](https://github.com/xigh/xigh/blob/master/cats.jpg)
 
 I like cooking :pizza:, swimming in the ocean :fish:, reading sci-fi books :books: (I'm huge fan of Peter F. Hamilton), reading science papers, reading science history (especially the beginning of the 19th century with Relativity and Quantic physics). I also interested in philosophy.
 
