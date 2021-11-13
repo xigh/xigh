@@ -24,7 +24,7 @@ I like working on low level stuff :
 - Multithreading
 - Machine learning (without frameworks)
 
-![fpga-ulx3s](./fgpa-ulx3s.jpg)
+![fpga-ulx3s](https://github.com/xigh/xigh/blob/master/fpga-ulx3s.jpg)
 
 ### The projects I worked on :
 
